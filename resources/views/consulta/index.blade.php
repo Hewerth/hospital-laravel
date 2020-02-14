@@ -24,25 +24,5 @@
     </div>
     @endforeach
   </div>
-  
-  <div class="card">
-    <div class="card-header">Lista de Pacientes</div>
-    <table class="table">
-      <thead>
-        <tr>
-          <th scope="col">N° HC</th>
-          <th scope="col">Nombre</th>
-          <th scope="col">Consulta</th>
-        </tr>
-      </thead>
-      <tbody>
-        <tr>
-          <th scope="row">1</th>
-          <td>Mark</td>
-          <td>Otto</td>
-          <td>@mdo</td>
-        </tr>
-    </table>
-  </div>
 
 @endsection
